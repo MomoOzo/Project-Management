@@ -6,7 +6,6 @@
     <img src="screenshot-2.png" alt="Project Screenshot 2" width="300">
     <img src="screenshot-3.png" alt="Project Screenshot 3" width="300">
 </div>
-<p><em>A preview of the Project Management App</em></p>
 
 <h2>📝 How to Use</h2>
 <ul>
