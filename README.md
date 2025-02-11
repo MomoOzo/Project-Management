@@ -2,9 +2,9 @@
 
 <h2>📸 Screenshots</h2>
 <div style="display: flex; gap: 10px;">
-    <img src="Screenshot-1.png" alt="Project Screenshot 1" width="500">
-    <img src="ScreenShot-2.png" alt="Project Screenshot 2" width="500">
-    <img src="ScreenShot-3.png" alt="Project Screenshot 3" width="500">
+    <img src="Screenshot-1.png" alt="Project Screenshot 1" width="400">
+    <img src="Screenshot-2.png" alt="Project Screenshot 2" width="400">
+    <img src="Screenshot-3.png" alt="Project Screenshot 3" width="400">
 </div>
 
 <h2>📝 How to Use</h2>
